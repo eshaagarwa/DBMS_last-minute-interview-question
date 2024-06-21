@@ -1,6 +1,6 @@
 # DBMS_last-minute-interview-question
 
-### 🚀 Mastering Database Management Systems: Essential last_minute Interview Questions 🚀
+### Mastering Database Management Systems: Essential last_minute Interview Questions 🚀
 
 #### Uncover the Heart of DBMS
 
